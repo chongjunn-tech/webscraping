@@ -7,7 +7,7 @@ This repository showcases some of my projects/attempts on doing webscraping.
 
  
 - [Licensed Healthcare Institutions (HCI) List](https://github.com/chongjunn-tech/webscraping/tree/main/Listing%20of%20Licensed%20Healthcare%20Institutions)
-  - Webscraping of the Listing of Licensed Healthcare Institutions(HCI) 
+  - Webscraping of the Listing of Licensed Healthcare Institutions (HCI) 
 
 
 - [Singapore Medical Council (SMC) List](https://github.com/chongjunn-tech/webscraping/tree/main/SMC)
